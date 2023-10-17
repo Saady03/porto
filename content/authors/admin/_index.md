@@ -22,11 +22,8 @@ organizations:
     url: http://www.imsp-benin.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Atmospheric Physicist. Apart from teaching activities, I do research in the
-Micrometeorology and have developed an interest in land surface interactions because of
-the effects they have on climate from small to global scale. In addition, due to the strong
-feedback between aerosol particles, energy, carbon cycle, water vapor fluxes and climate
-(precipitation), I started few years ago to study these particles (aerosol matters).
+bio: I am an Atmospheric Physicist.I do research in the Micrometeorology and have developed 
+     an interest in land surface interactions.
 
 # Interests to show in About widget
 interests:
